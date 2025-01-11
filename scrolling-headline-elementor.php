@@ -2,9 +2,13 @@
 /**
  * Plugin Name: Scrolling Headline for Elementor
  * Description: Adds a scrolling headline widget to Elementor
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Your Name
  * Text Domain: scrolling-headline-elementor
+ * GitHub Plugin URI: https://github.com/ch1ptune/scrolling-headline-elementor
+ * GitHub Branch: main
+ * License: GPL v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
 if (!defined('ABSPATH')) {
@@ -12,7 +16,7 @@ if (!defined('ABSPATH')) {
 }
 
 final class Scrolling_Headline_Elementor {
-    const VERSION = '1.0.0';
+    const VERSION = '1.0.1';
     const MINIMUM_ELEMENTOR_VERSION = '3.0.0';
     const MINIMUM_PHP_VERSION = '7.0';
 
